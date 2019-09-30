@@ -1,1 +1,3 @@
 I'm making a development task
+have a mistake ,can not commit 
+need use stash to save working state
